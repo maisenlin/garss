@@ -193,6 +193,7 @@
 | <h2 id="生活类">生活类</h2> |  |   |  |
 | L001 | 李子柒 | 李子柒的微博 | {{latest_content}}  |  [订阅地址](http://rsshub.v2fy.com:1200/weibo/user/2970452952) |  
 | L002 | 理想生活实验室 | 为更理想的生活 | {{latest_content}}  |  [订阅地址](https://www.toodaylab.com/rss) |  
+| L003 | 全国今日生猪价格 | 全国今日生猪价格 | {{latest_content}}  |  [订阅地址](https://rsshub.app/pork-price) |  
 | <h2 id="设计类">设计类</h2> |  |   |  |
 | D001 | Behance |  Adobe旗下设计网站Behance | {{latest_content}}  |  [订阅地址](https://www.behance.net/feeds/projects) |  
 | D002 | Behance官方博客 |  Behance官方博客 | {{latest_content}}  |  [订阅地址](https://medium.com/feed/@behance) |  
