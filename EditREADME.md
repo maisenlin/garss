@@ -241,6 +241,7 @@
 | M004 | YTS |  Most popular Torrents in the smallest file size | {{latest_content}}  |  [订阅地址](https://yts.mx/rss) | 
 | M005 | RARBG |  种子站RARBG | {{latest_content}}  |  [订阅地址](https://rarbg.to/rss.php) | 
 | M006 | 独播库 |  独播库 | {{latest_content}}  |  [订阅地址](https://feed43.com/8322311585854180.xml) | 
+| M007 | 瓜皮TV |  秒播放 超高清 | {{latest_content}}  |  [订阅地址](https://node2.feed43.com/5243627156840755.xml) | 
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | <div id="G001" style="text-align: center;"><img src="./_media/favicon/G001.png" width="30px" style="width:30px;height: auto;"/><br><span>G001</span></div> | 机核网 |  不止是游戏 | {{latest_content}}  |  [订阅地址](https://www.gcores.com/rss) |  
 | <div id="G002" style="text-align: center;"><img src="./_media/favicon/G002.png" width="30px" style="width:30px;height: auto;"/><br><span>G002</span></div> | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | {{latest_content}}  |  [订阅地址](https://www.yystv.cn/rss/feed) |  
