@@ -310,9 +310,3 @@ yag.send('填收件人邮箱', '主题:学习使我快乐', contents)
 ![手机端优化后的邮件效果](https://cdn.fangyuanxiaozhan.com/assets/163039979740967wCT8RQ.jpeg)
 
 ![PC端优化后的邮件效果](https://cdn.fangyuanxiaozhan.com/assets/1630399693988c2tk8n7k.png)
-
-## 交流群
-
-![wx-rss-002](https://cdn.fangyuanxiaozhan.com/assets/1631157359184n13WJyyd.png)
-
-![wx-rss-001](https://cdn.fangyuanxiaozhan.com/assets/1631157359186yYa61HDi.png)
