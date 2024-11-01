@@ -34,7 +34,6 @@
 | <div id="S005" style="text-align: center;"><img src="./_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | {{latest_content}} | [订阅地址](https://www.appinn.com/feed/) | 
 | <div id="S006" style="text-align: center;"><img src="./_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  {{latest_content}} | [订阅地址](https://masuit.com/rss) |
 | <h2 id="新闻资讯">新闻资讯</h2> |  |   |  |
-| N001 | 广东省人民政府门户网站  | 广东省人民政府门户网站-要闻推送  | {{latest_content}}  |  [订阅地址](https://node2.feed43.com/6303315464331028.xml) |  
 | N002 | 华尔街见闻  | 华尔街见闻  | {{latest_content}}  |  [订阅地址](https://rsshub.app/wallstreetcn/news/global) |  
 | N003 | 每日环球视野  | 每日环球视野  | {{latest_content}}  |  [订阅地址](https://rsshub.app/idaily/today) |
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
