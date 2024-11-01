@@ -231,7 +231,7 @@
 | C028 | cnBeta | 中文业界资讯 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/cnbetatop.xml) |  
 | C029 | China Daily News | 中国每日新闻 | {{latest_content}}  |  [订阅地址](http://www.chinadaily.com.cn/rss/cndy_rss.xml) |   
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| M001 | RARBG |  种子站RARBG | {{latest_content}}  |  [订阅地址](https://rarbg.to/rss.php) | 
+| M001 | 搜片 |  搜片（soupian.plus） | {{latest_content}}  |  [订阅地址](https://rsseverything.com/zh/feed/5b6450ef-5609-4965-9ab8-b6e36d570506.xml) | 
 | M002 | 独播库 |  独播库 | {{latest_content}}  |  [订阅地址](https://feed43.com/8322311585854180.xml) | 
 | M003 | 瓜皮TV |  秒播放 超高清 | {{latest_content}}  |  [订阅地址](https://node2.feed43.com/5243627156840755.xml) | 
 | <h2 id="游戏">游戏</h2> |  |   |  |
