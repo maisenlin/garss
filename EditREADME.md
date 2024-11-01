@@ -157,6 +157,9 @@
 | <div id="B118" style="text-align: center;"><span>B118</span></div> |  格物致知  |  专注于分享后端相关的技术以及设计架构思想，偶尔写一些生活和前端相关的东西   | {{latest_content}} | [订阅地址](https://liqiang.io/atom.xml) |
 | <div id="B119" style="text-align: center;"><span>B119</span></div> |  黄琦雲的博客  |  心中本没有路，用双手敲写康庄大道。知之甚少，学之甚多，生命不休，求索不止。   | {{latest_content}} | [订阅地址](https://knightyun.github.io/feed.xml) |
 | <div id="B120" style="text-align: center;"><span>B120</span></div> |  阳志平的网志 |  致力于认知科学的产品开发、课程设计与科学传播。   | {{latest_content}} | [订阅地址](https://www.yangzhiping.com/feed.xml) |
+| <div id="B121" style="text-align: center;"><span>B120</span></div> |  独立开发产品变现周刊 |  独立开发产品变现周刊，每周五发布   | {{latest_content}} | [订阅地址](https://rsseverything.com/zh/feed/278428be-56c4-4e0c-b817-b323c2d713d9.xml) |
+| <div id="B122" style="text-align: center;"><span>B120</span></div> |  有趣网址之家 |  收藏全球最有趣的网站   | {{latest_content}} | [订阅地址](https://rss.diffbot.com/rss?url=https://youquhome.com/) |
+
 | <h2 id="数码">数码</h2> |  |   |  |
 | D001 | 少数派 | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) | 
 | D002 | 数字尾巴 | 分享美好数字生活 | {{latest_content}}  |  [订阅地址](https://www.dgtle.com/rss/dgtle.xml) | 
@@ -188,6 +191,8 @@
 | T005 | 产品运营 | 产品运营 - 人人都是产品经理 | {{latest_content}}  |  [订阅地址](http://www.woshipm.com/category/operate/feed) |  
 | T006 | 产品经理  | 产品经理 – 人人都是产品经理 | {{latest_content}}  |  [订阅地址](http://www.woshipm.com/category/pmd/feed) |  
 | T007 | 产品100  | 产品人学习成长社区 | {{latest_content}}  |  [订阅地址](http://www.chanpin100.com/feed) |  
+| T008 | 一起用AI精选  | 一起用AI精选 | {{latest_content}}  |  [订阅地址](https://rsseverything.com/zh/feed/e58bb82c-0c82-409c-a2d2-bd45ec3316db.xml) |  
+| T009 | Github开源项目每天飙升榜  | Github开源项目每天飙升榜 | {{latest_content}}  |  [订阅地址](https://rsseverything.com/zh/feed/5166144d-293c-4a0c-953c-b855884cb7b6.xml) |  
 | <h2 id="学习类">学习类</h2> |  |   |  |
 | L001 | 扔物线 | 帮助 Android 工程师进阶成长 | {{latest_content}}  |  [订阅地址](https://rengwuxian.com/feed) |  
 | L002 | MOOC中国 | 慕课改变你，你改变世界  | {{latest_content}}  |  [订阅地址](https://www.mooc.cn/feed) |  
@@ -231,8 +236,9 @@
 | C028 | cnBeta | 中文业界资讯 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/cnbetatop.xml) |  
 | C029 | China Daily News | 中国每日新闻 | {{latest_content}}  |  [订阅地址](http://www.chinadaily.com.cn/rss/cndy_rss.xml) |   
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| M001 | 搜片 |  搜片（soupian.plus） | {{latest_content}}  |  [订阅地址](https://rsseverything.com/zh/feed/5b6450ef-5609-4965-9ab8-b6e36d570506.xml) | 
-| M002 | 独播库 |  独播库 | {{latest_content}}  |  [订阅地址](https://feed43.com/8322311585854180.xml) | 
+| M001 | 搜片(rsseverything) |  搜片（soupian.plus） | {{latest_content}}  |  [订阅地址](https://rsseverything.com/zh/feed/5b6450ef-5609-4965-9ab8-b6e36d570506.xml) | 
+| M002 | 搜片(rss.diffbot.com) |  搜片 | {{latest_content}}  |  [订阅地址](https://rss.diffbot.com/rss?url=https://soupian.plus/) | 
+| M003 | 搜片(politepol) |  搜片 | {{latest_content}}  |  [订阅地址](https://politepol.com/fd/kY4760t53pqc.xml) | 
 | M003 | 瓜皮TV |  秒播放 超高清 | {{latest_content}}  |  [订阅地址](https://node2.feed43.com/5243627156840755.xml) | 
 | <h2 id="游戏">游戏</h2> |  |   |  |
 | <div id="G002" style="text-align: center;"><img src="./_media/favicon/G002.png" width="30px" style="width:30px;height: auto;"/><br><span>G002</span></div> | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | {{latest_content}}  |  [订阅地址](https://www.yystv.cn/rss/feed) |  
