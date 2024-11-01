@@ -231,7 +231,6 @@
 | C028 | cnBeta | 中文业界资讯 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/cnbetatop.xml) |  
 | C029 | China Daily News | 中国每日新闻 | {{latest_content}}  |  [订阅地址](http://www.chinadaily.com.cn/rss/cndy_rss.xml) |   
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
-| <div id="M001" style="text-align: center;"><img src="./_media/favicon/M001.png" width="30px" style="width:30px;height: auto;"/><br><span>M001</span></div> | VIP影院 |  666影院 - 全网VIP电影免费看！ | {{latest_content}}  |  [订阅地址](https://bukaivip.com/rss) |  
 | M001 | RARBG |  种子站RARBG | {{latest_content}}  |  [订阅地址](https://rarbg.to/rss.php) | 
 | M002 | 独播库 |  独播库 | {{latest_content}}  |  [订阅地址](https://feed43.com/8322311585854180.xml) | 
 | M003 | 瓜皮TV |  秒播放 超高清 | {{latest_content}}  |  [订阅地址](https://node2.feed43.com/5243627156840755.xml) | 
